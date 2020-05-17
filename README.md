@@ -1,7 +1,7 @@
 # testinterface
 
 ## 一个完整的表格增删改查demo
-基于vue2.6.11，封装了axios网络请求，具体代码参考api文件夹，调用参考testSpringBoot2.vue  
+基于vue2.6.11，封装了axios网络请求，具体代码参考[api](https://github.com/AsaZws/testinterface/tree/master/src/api)文件夹，调用参考[testSpringBoot2](https://github.com/AsaZws/testinterface/blob/master/src/components/testSpringBoot2.vue)  
 [java后台代码地址](https://github.com/AsaZws/mysql05)
 
 图片  
